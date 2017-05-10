@@ -1,8 +1,22 @@
-# OpenData_OSINT
-This is a collection of Open Data that might be of some use to an OSINT researchers and journalists. Most of this will be spill over from the OSINT Team Links, useful links that needed it's own repo.
-
-# Importing
-You can import bookmarks.html into your browser for easy use. These will not replace any bookmarks that already exist in your browser.
-
-# To Do
-Add all the bookmarks to README.md
+## OpenData_OSINT
+This is a collection of Open Data that might be of some use to researchers. Most of these are from governments and NGO's and didn't fit into [OSINT Team Links Repo](https://github.com/IVMachiavelli/OSINT_Team_Links)
+### Community
+[Open OSINT Team](https://openosint.slack.com/)<br>            
+### North America Research              
+[County Explorer](http://explorer.naco.org)<br>
+[Department of Defense](http://data.defense.gov/)<br>         
+### Europe Research
+[EU Public Data](http://publicdata.eu/)<br>
+[EU Open Data Monitor](http://opendatamonitor.eu)<br>
+[Ireland Open Data Portal](https://data.gov.ie/data)<br>              
+### Asia                
+[Hong Kong Government Data](https://data.gov.hk/en/)<br>
+[India Government Data](https://data.gov.in/)<br>
+### Africa                
+[South African National Data Portal](http://data.gov.za/)<br>
+[United Nations](http://data.un.org/)<br>
+### International & NGO
+[Open Corporates](https://opencorporates.com/)<br>
+[Data World](https://data.world/)<br>
+[United Nations](http://data.un.org/)<br>
+[UNICEF](http://data.unicef.ge/en)<br>
