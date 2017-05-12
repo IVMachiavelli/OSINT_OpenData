@@ -12,6 +12,7 @@ This is a collection of Open Data that might be of some use to researchers. Most
 ### Asia                
 [Hong Kong Government Data](https://data.gov.hk/en/)<br>
 [India Government Data](https://data.gov.in/)<br>
+[Indonesia Government Data](https://data.go.id/)<br>
 ### Africa                
 [South African National Data Portal](http://data.gov.za/)<br>
 [United Nations](http://data.un.org/)<br>
