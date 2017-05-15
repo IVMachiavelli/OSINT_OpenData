@@ -8,7 +8,8 @@ This is a collection of Open Data that might be of some use to researchers. Most
 ### Europe Research
 [EU Public Data](http://publicdata.eu/)<br>
 [EU Open Data Monitor](http://opendatamonitor.eu)<br>
-[Ireland Open Data Portal](https://data.gov.ie/data)<br>              
+[Ireland Open Data Portal](https://data.gov.ie/data)<br>     
+[UK Police Data](https://data.police.uk/)<br>           
 ### Asia                
 [Hong Kong Government Data](https://data.gov.hk/en/)<br>
 [India Government Data](https://data.gov.in/)<br>
