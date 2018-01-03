@@ -4,12 +4,12 @@
 This repo should be considered **depreciated**, please refer to the links below for better collections. I will be contributing to those instead.
 
 ### Large Data Collections (Probably what your looking for!)
-[Awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)<br>
-[Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
-[Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)<br>
-[Awesome Big Sata](https://github.com/onurakpolat/awesome-bigdata)<br>
-[Public Api's](https://github.com/toddmotto/public-apis)<br>
-[Data World](https://data.world/)<br>
+* [Awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)<br>
+* [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)<br>
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)<br>
+* [Awesome Big Sata](https://github.com/onurakpolat/awesome-bigdata)
+* [Public Api's](https://github.com/toddmotto/public-apis)
+* [Data World](https://data.world/)
 ***
 
 ### Resources that I still need to commit to the above collections.)
