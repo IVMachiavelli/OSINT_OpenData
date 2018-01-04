@@ -12,7 +12,7 @@ This repo should be considered **depreciated**, please refer to the links below 
 * [Data World](https://data.world/)
 ***
 
-### Resources that I still need to commit to the above collections.)
+### Resources that I still need to commit to the above collections.
 * [Rulers](https://www.rulers.org/)
 * [Every Politician](http://everypolitician.org)
 * [CIA World Leaders](https://www.cia.gov/library/publications/resources/world-leaders-1/index.html)
